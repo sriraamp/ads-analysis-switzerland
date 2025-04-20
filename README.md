@@ -1,3 +1,5 @@
+### 🔗 [Live App on Streamlit](https://sriraamp-ads-analysis-switzerland.streamlit.app)
+
 # Swiss Advertising Analysis (2019–2024)
 
 Synthetic dataset of 1,000 ad campaigns in Switzerland across major brands and platforms. Focus on platform trends, brand frequency, celebrity usage, and tone of ad copy. Includes Streamlit dashboard with bilingual interface.
